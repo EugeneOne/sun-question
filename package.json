@@ -1,0 +1,25 @@
+{
+  "name": "sun-question",
+  "version": "1.0.0",
+  "description": "刷题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneOne/sun-question.git"
+  },
+  "author": "wanyuqing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugeneOne/sun-question/issues"
+  },
+  "homepage": "https://github.com/EugeneOne/sun-question#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-prettier": "^3.1.2"
+  }
+}
